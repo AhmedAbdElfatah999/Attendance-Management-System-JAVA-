@@ -1,0 +1,37 @@
+﻿Ahmed Ali@gmail.com
+Mohamed Ahmed@gmail.com
+Ali Mohamed@gmail.com
+Ahmed Mohamed@gmail.com
+Mohamed Ali@gmail.com
+Ahmed Ali@gmail.com
+Hassan Ali@gmail.com
+Hassen Ali@gmail.com
+Aya Ali@gmail.com
+Alaa Ali@gmail.com
+Esraa Ahmed@gmail.com
+Hager Ali@gmail.com
+Ali Ahmed@gmail.com
+Mohamed Ali@gmail.com
+Ahmed Ali@gmail.com
+Salah Ali@gmail.com
+Ali salah@gmail.com
+Ahmed Ali@gmail.com
+Mohamed Ali@gmail.com
+Ahmed Mohamed@gmail.com
+Ahmed Adel@gmail.com
+Ali Ahmed@gmail.com
+Ahmed Ali@gmail.com
+Aya Ahmed@gmail.com
+Ahmed Adel@gmail.com
+
+هنشيل المسافه علشان هنشتغل ب 
+equal 
+مش 
+contain 
+
+ممكن لو عايز برنامج يقبل كل الايميلات زي الجيميل اشتغل علي الحروف الكبيره بس 
+ يعني مثلا هقرأ لحد 
+@
+و بعد كده 
+هقسم الكلمه الي جايه حرف  حرف و اقول لو ال اسكي كود بتاعها اكبر من 90 يطرح منها 32 و بعد كده يخزنها ف الي هيتخزن عندي الايميل  بحروف كبيره بس  واقارن الي جايلي بيها كده اكولها ل  كلها ل حروف كبيره الاول  
+و بعد كده اقارن 

@@ -1,0 +1,20 @@
+﻿1#2017001  #Ahmed Ali    #CS215&0&0&0&1&true  #OR1717&0&0&0@0&1&true
+2#2017002  #Mohamed Ahmed#OR1717&0&0&0&1&true #HR_2015&0&0&0&1&true
+3#2017003  #Ali Mohamed  #HR_2015&0&0&0&1&true#DB_120&0&0&0&1&true
+4#2017004  #Ahmed Mohamed#DB_120&0&0&0&1&false#CS215&0&0&0@0&1&true
+5#2017005  #Mohamed Ali  #CS215&0&0&0&1&true  #OR1717&0&0&0&1&true
+6#2017006  #Ahmed Ali    #OR1717&0&0&0&1&true #HR_2015&0&0&0&1&true
+7#2017007  #Hassan Ali   #HR_2015&0&0&0&1&true#DB_120&0&0&0&1&true
+8#2017008  #Hassen Ali   #DB_120&0&0&0&1&true #CS215&0&0&0@0&1&false
+9#2017009  #Aya Ali      #CS215&0&0&0&1&false #OR1717&0&0&0&1&true
+10#2017010 #Alaa Ali     #OR1717&0&0&0&1&true #HR_2015&0&0&0&1&true
+11#2017011 #Esraa Ahmed  #HR_2015&0&0&0&1&true#DB_120&0&0&0&1&true
+12#2017012 #Hager Ali    #DB_120&0&0&0&1&true #CS215&0&0&0@0&1&false
+13#2017013 #Ali Ahmed    #CS215&0&0&0&1&true  #OR1717&0&0&0&1&true
+14#2017014 #Mohamed Ali  #OR1717&0&0&0&1&true #HR_2015&0&0&0&1&true
+15#2017015 #Ahmed Ali    #HR_2015&0&0&0&1&true#DB_120&0&0&0&1&true
+16#2017016 #Salah Ali    #DB_120&0&0&0&1&true #CS215&0&0&0&1&true
+17#2017017 #Ali salah    #CS215&0&0&0&1&true  #OR1717&0&0&0&1&true
+18#2017018 #Ahmed Ali    #OR1717&0&0&0&1&true #HR_2015&0&0&0&1&true
+19#2017019 #Mohamed Ali  #HR_2015&0&0&0&1&true#DB_120&0&0&0&1&true
+20#2017020 #Ahmed Mohamed#DB_1205&0&0&0&1&true#CS215&0&0&0&1&true

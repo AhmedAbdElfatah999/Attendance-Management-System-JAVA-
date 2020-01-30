@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="AGUI.jnlp">
+  <information>
+    <title>AGUI</title>
+    <vendor>hp</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="AGUI.jar" size="15498" download="eager" />
+    <jar href="lib\AttendanceManagementSystemProj.jar" size="33392" download="eager" />
+    <jar href="lib\Student.jar" size="481329" download="eager" />
+    <jar href="lib\Teacher.jar" size="488293" download="eager" />
+    <jar href="lib\admin.jar" size="518204" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="AGUI" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="AGUI"  name="AGUI" />
+  <update check="always"/>
+</jnlp>
